@@ -1,3 +1,6 @@
+Answer the question: how/why count of ratings develops around new products?
++ speculate about the factors that account for the trajectory in the count of ratings; 
+
 May show:
 1. general tendency of the focal variable over time (e.g. trajectory of popularity of the average product in a category);
 2. distribution of the focal variable at multiple points in time (histogram, where bins=months/years)
@@ -8,10 +11,6 @@ Must show:
 1. trajectory in the count of ratings received by product across time (since the very first score up to six months later; exclude products whose first score has been posted by less than six months);
 2. association between the trajectory in the count of ratings and product attributes (e.g., product-market category, price);
 3 association between the trajectory in the count of ratings and the timing/pace with which ratings are posted.
-
-Question: how/why count of ratings develops around new products. 
-(i) to speculate about the factors that account for the trajectory in the count of ratings; 
-(ii) to update their client with a PowerPoint alike slide-show.
 
 Must use:
 1. raw data, statistical indexes, or the outcome of statistical analyses (e.g., regression analysis; network analysis);
