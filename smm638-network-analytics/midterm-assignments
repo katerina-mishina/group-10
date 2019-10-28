@@ -34,6 +34,9 @@ dataset [Jeff McCauley](wwww.mccauley.com) has put together, in order to
 create a Matplotlib figure with the following characteristics:
 
 + the figure has to fit the A4 layout, landscape orientation;
+##### Matplotlib uses inches. 
+##### A4: 8.27 × 11.69 inches + 0.5 inch margins
+##### Therefore, figsize=(7.77,11.19)
 + four (4) plots populate the figure;
 + in terms of information needs, users would like to see the following
     elements:
