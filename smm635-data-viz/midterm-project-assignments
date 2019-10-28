@@ -13,6 +13,10 @@ Question: how/why count of ratings develops around new products.
 (i) to speculate about the factors that account for the trajectory in the count of ratings; 
 (ii) to update their client with a PowerPoint alike slide-show.
 
+Must use:
+1. raw data, statistical indexes, or the outcome of statistical analyses (e.g., regression analysis; network analysis);
+2. both the 'review' and the 'metadata' datasets
+
 Deliverables:
 copy of Python scripts and/or the Jupyter notebook
 copy of the final chart (.pdf format)
@@ -22,9 +26,3 @@ an effective, concise description of the key insights emerging from the figure;
 the set of statistical analyses (if any) behind the charts.
 Data
 The data for this project are publicly available at this link. Here are some tips to operate the project:
-
-using the 'small' datasets is perfectly fine;
-focus on as many product-market categories as you want (provided there is a rationale behind your choice);
-the figure can contain either raw data, statistical indexes, or the outcome of statistical analyses (e.g., regression analysis; network analysis);
-both the 'review' and the 'metadata' datasets should be used;
-Pandas has advanced capabilities to handle time data (SMM692 provides an overview of some key functions).
